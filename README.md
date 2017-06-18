@@ -15,7 +15,6 @@ b.	Sms.
 c.	Web browsing.
 d.	Navigate 
 
-
 Additionally you can:
 a.	Favor a contact to display in favor mode.
 b.	Access contacts’ Dropbox files.
