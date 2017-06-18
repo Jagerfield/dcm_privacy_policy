@@ -8,11 +8,14 @@ The Data & Contacts Sharing Mgr (DCM) is an application for creating, managing a
 
 This application requires having a Dropbox account. On the first run, it will display a Dropbox website to guide you through the process. However, it is faster if you have one ready in forehand.
 
+```
 The app contacts provide functionality to:
+
 a.	Call.
 b.	Sms.
 c.	Web browsing.
 d.	Navigate 
+
 
 Additionally you can:
 a.	Favor a contact to display in favor mode.
@@ -36,3 +39,4 @@ e.	Paste file/folder.
 f.	Download file.
 g.	Cancel command.
 h.	Delete file/folder.
+```
