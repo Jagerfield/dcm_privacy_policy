@@ -10,7 +10,6 @@ This application requires having a Dropbox account. On the first run, it will di
 
 ```
 The app contacts provide functionality to:
-
 a.	Call.
 b.	Sms.
 c.	Web browsing.
